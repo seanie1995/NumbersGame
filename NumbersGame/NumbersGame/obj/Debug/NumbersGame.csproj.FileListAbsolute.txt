@@ -1,0 +1,14 @@
+C:\Users\HP Victus\source\Chas Academy\Programmering i C#\MyFirstProject\NumbersGame\NumbersGame\bin\Debug\NumbersGame.exe.config
+C:\Users\HP Victus\source\Chas Academy\Programmering i C#\MyFirstProject\NumbersGame\NumbersGame\bin\Debug\NumbersGame.exe
+C:\Users\HP Victus\source\Chas Academy\Programmering i C#\MyFirstProject\NumbersGame\NumbersGame\bin\Debug\NumbersGame.pdb
+C:\Users\HP Victus\source\Chas Academy\Programmering i C#\MyFirstProject\NumbersGame\NumbersGame\obj\Debug\NumbersGame.csproj.AssemblyReference.cache
+C:\Users\HP Victus\source\Chas Academy\Programmering i C#\MyFirstProject\NumbersGame\NumbersGame\obj\Debug\NumbersGame.csproj.CoreCompileInputs.cache
+C:\Users\HP Victus\source\Chas Academy\Programmering i C#\MyFirstProject\NumbersGame\NumbersGame\obj\Debug\NumbersGame.exe
+C:\Users\HP Victus\source\Chas Academy\Programmering i C#\MyFirstProject\NumbersGame\NumbersGame\obj\Debug\NumbersGame.pdb
+C:\Users\HP Victus\source\Chas Academy\Programmering i C#\NumbersGame\NumbersGame\bin\Debug\NumbersGame.exe.config
+C:\Users\HP Victus\source\Chas Academy\Programmering i C#\NumbersGame\NumbersGame\bin\Debug\NumbersGame.exe
+C:\Users\HP Victus\source\Chas Academy\Programmering i C#\NumbersGame\NumbersGame\bin\Debug\NumbersGame.pdb
+C:\Users\HP Victus\source\Chas Academy\Programmering i C#\NumbersGame\NumbersGame\obj\Debug\NumbersGame.csproj.AssemblyReference.cache
+C:\Users\HP Victus\source\Chas Academy\Programmering i C#\NumbersGame\NumbersGame\obj\Debug\NumbersGame.csproj.CoreCompileInputs.cache
+C:\Users\HP Victus\source\Chas Academy\Programmering i C#\NumbersGame\NumbersGame\obj\Debug\NumbersGame.exe
+C:\Users\HP Victus\source\Chas Academy\Programmering i C#\NumbersGame\NumbersGame\obj\Debug\NumbersGame.pdb
